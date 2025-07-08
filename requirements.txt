@@ -5,5 +5,5 @@ numpy
 scikit-learn 
 joblib 
 soundfile
-
+pyaudio
 flask
