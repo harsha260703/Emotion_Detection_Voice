@@ -1,0 +1,10 @@
+streamlit 
+streamlit-webrtc 
+librosa 
+numpy 
+scikit-learn 
+joblib 
+soundfile
+pyaudio
+sounddevice
+flask
